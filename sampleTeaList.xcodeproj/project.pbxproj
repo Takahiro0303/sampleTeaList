@@ -13,12 +13,12 @@
 		1C0C12C21F610C65002F4B9B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1C0C12C01F610C65002F4B9B /* LaunchScreen.storyboard */; };
 		1C0C12CD1F610C65002F4B9B /* sampleTeaListTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C0C12CC1F610C65002F4B9B /* sampleTeaListTests.swift */; };
 		1C0C12D81F610C65002F4B9B /* sampleTeaListUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C0C12D71F610C65002F4B9B /* sampleTeaListUITests.swift */; };
-		1C0C12FC1F615BDD002F4B9B /* arel.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1C0C12F91F615BDD002F4B9B /* arel.jpg */; };
-		1C0C12FD1F615BDD002F4B9B /* att.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1C0C12FA1F615BDD002F4B9B /* att.jpg */; };
-		1C0C12FE1F615BDD002F4B9B /* dar.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1C0C12FB1F615BDD002F4B9B /* dar.jpg */; };
-		1C0C13001F616028002F4B9B /* orenji.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1C0C12FF1F616028002F4B9B /* orenji.jpg */; };
 		1C0C13011F616598002F4B9B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1C0C12BB1F610C65002F4B9B /* Main.storyboard */; };
 		1C0C13021F6166E9002F4B9B /* showDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C0C12E71F612A93002F4B9B /* showDetail.swift */; };
+		1C0C134B1F6275A9002F4B9B /* arel.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1C0C13471F6275A9002F4B9B /* arel.jpg */; };
+		1C0C134C1F6275A9002F4B9B /* att.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1C0C13481F6275A9002F4B9B /* att.jpg */; };
+		1C0C134D1F6275A9002F4B9B /* dar.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1C0C13491F6275A9002F4B9B /* dar.jpg */; };
+		1C0C134E1F6275A9002F4B9B /* orenji.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1C0C134A1F6275A9002F4B9B /* orenji.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,10 +53,10 @@
 		1C0C12D71F610C65002F4B9B /* sampleTeaListUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sampleTeaListUITests.swift; sourceTree = "<group>"; };
 		1C0C12D91F610C65002F4B9B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1C0C12E71F612A93002F4B9B /* showDetail.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = showDetail.swift; sourceTree = "<group>"; };
-		1C0C12F91F615BDD002F4B9B /* arel.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = arel.jpg; path = ../../../../Downloads/arel.jpg; sourceTree = "<group>"; };
-		1C0C12FA1F615BDD002F4B9B /* att.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = att.jpg; path = ../../../../Downloads/att.jpg; sourceTree = "<group>"; };
-		1C0C12FB1F615BDD002F4B9B /* dar.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = dar.jpg; path = ../../../../Downloads/dar.jpg; sourceTree = "<group>"; };
-		1C0C12FF1F616028002F4B9B /* orenji.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = orenji.jpg; path = ../../../../Downloads/orenji.jpg; sourceTree = "<group>"; };
+		1C0C13471F6275A9002F4B9B /* arel.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = arel.jpg; sourceTree = "<group>"; };
+		1C0C13481F6275A9002F4B9B /* att.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = att.jpg; sourceTree = "<group>"; };
+		1C0C13491F6275A9002F4B9B /* dar.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dar.jpg; sourceTree = "<group>"; };
+		1C0C134A1F6275A9002F4B9B /* orenji.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = orenji.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,12 +109,12 @@
 			children = (
 				1C0C12B71F610C65002F4B9B /* AppDelegate.swift */,
 				1C0C12B91F610C65002F4B9B /* ViewController.swift */,
-				1C0C12F91F615BDD002F4B9B /* arel.jpg */,
-				1C0C12FA1F615BDD002F4B9B /* att.jpg */,
-				1C0C12FB1F615BDD002F4B9B /* dar.jpg */,
-				1C0C12FF1F616028002F4B9B /* orenji.jpg */,
 				1C0C12BB1F610C65002F4B9B /* Main.storyboard */,
 				1C0C12E71F612A93002F4B9B /* showDetail.swift */,
+				1C0C13471F6275A9002F4B9B /* arel.jpg */,
+				1C0C13481F6275A9002F4B9B /* att.jpg */,
+				1C0C13491F6275A9002F4B9B /* dar.jpg */,
+				1C0C134A1F6275A9002F4B9B /* orenji.jpg */,
 				1C0C12BE1F610C65002F4B9B /* Assets.xcassets */,
 				1C0C12C01F610C65002F4B9B /* LaunchScreen.storyboard */,
 				1C0C12C31F610C65002F4B9B /* Info.plist */,
@@ -247,13 +247,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1C0C134C1F6275A9002F4B9B /* att.jpg in Resources */,
 				1C0C13011F616598002F4B9B /* Main.storyboard in Resources */,
-				1C0C12FD1F615BDD002F4B9B /* att.jpg in Resources */,
 				1C0C12C21F610C65002F4B9B /* LaunchScreen.storyboard in Resources */,
+				1C0C134D1F6275A9002F4B9B /* dar.jpg in Resources */,
+				1C0C134E1F6275A9002F4B9B /* orenji.jpg in Resources */,
 				1C0C12BF1F610C65002F4B9B /* Assets.xcassets in Resources */,
-				1C0C12FE1F615BDD002F4B9B /* dar.jpg in Resources */,
-				1C0C13001F616028002F4B9B /* orenji.jpg in Resources */,
-				1C0C12FC1F615BDD002F4B9B /* arel.jpg in Resources */,
+				1C0C134B1F6275A9002F4B9B /* arel.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -10,13 +10,16 @@ import UIKit
 
 class DetailViewController: UIViewController {
     
+    @IBOutlet weak var myImage: UIImageView!
     
 //    前の画面から送られてきた行番号
     var scSelectedIndex = -1
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        
+        myImage.image = UIImage(named: "pekin.jpg")
+        
         // Do any additional setup after loading the view.
         
         print("\(scSelectedIndex)行目が押されて移動してきました")
